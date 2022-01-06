@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "sNewspaperPile",
+    "path": "sprites/sNewspaperPile/sNewspaperPile.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "oParGarbage",
+    "path": "objects/oParGarbage/oParGarbage.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"entityGarbage","path":"objects/oParGarbage/oParGarbage.yy",},"objectId":{"name":"oParGarbage","path":"objects/oParGarbage/oParGarbage.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"entityCollision","path":"objects/oParEntity/oParEntity.yy",},"objectId":{"name":"oParEntity","path":"objects/oParEntity/oParEntity.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Garbage",
+    "path": "folders/Objects/Garbage.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "oNewspaper",
+  "tags": [],
+  "resourceType": "GMObject",
+}
