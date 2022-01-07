@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Whip",
-    "path": "folders/Sprites/Player (Zach)/Whip.yy",
+    "path": "folders/Sprites/Characters/Player (Zach)/Whip.yy",
   },
   "resourceVersion": "1.0",
   "name": "sWhip",

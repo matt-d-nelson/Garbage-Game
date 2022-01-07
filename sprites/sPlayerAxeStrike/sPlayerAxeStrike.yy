@@ -130,7 +130,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Player (Zach)",
-    "path": "folders/Sprites/Player (Zach).yy",
+    "path": "folders/Sprites/Characters/Player (Zach).yy",
   },
   "resourceVersion": "1.0",
   "name": "sPlayerAxeStrike",

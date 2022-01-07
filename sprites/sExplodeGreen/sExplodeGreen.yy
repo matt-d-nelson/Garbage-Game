@@ -106,7 +106,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Bomb",
-    "path": "folders/Sprites/Player (Zach)/Bomb.yy",
+    "path": "folders/Sprites/Characters/Player (Zach)/Bomb.yy",
   },
   "resourceVersion": "1.0",
   "name": "sExplodeGreen",

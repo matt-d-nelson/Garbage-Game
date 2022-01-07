@@ -114,7 +114,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Duke",
-    "path": "folders/Sprites/Duke.yy",
+    "path": "folders/Sprites/Characters/Duke.yy",
   },
   "resourceVersion": "1.0",
   "name": "sDukeJumpUp",

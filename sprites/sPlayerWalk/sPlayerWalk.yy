@@ -101,7 +101,7 @@
     "spriteId": {"name":"sPlayerWalk","path":"sprites/sPlayerWalk/sPlayerWalk.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 10.0,
+    "playbackSpeed": 8.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -162,7 +162,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Player (Zach)",
-    "path": "folders/Sprites/Player (Zach).yy",
+    "path": "folders/Sprites/Characters/Player (Zach).yy",
   },
   "resourceVersion": "1.0",
   "name": "sPlayerWalk",
