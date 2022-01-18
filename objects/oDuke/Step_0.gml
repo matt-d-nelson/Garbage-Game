@@ -28,7 +28,7 @@ if (!global.gamePaused)
 		mp_grid_path(oPathwaySetup.grid, path, x, y, targetX, targetY, 0);
 		path_start(path, speedWalk, path_action_stop, false);
 	}
-	//Calc z arc
+	//Calc z arc if jumping
 	if (jumping = true)
 	{
 		path_speed = 1;

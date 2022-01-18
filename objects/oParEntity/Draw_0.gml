@@ -1,4 +1,4 @@
-if (entityShadow) draw_sprite(entityShadowSprite,0,floor(x),floor(y));
+if (entityShadow) draw_sprite(entityShadowSprite,0,(x),(y));
 
 if (flash != 0)
 {
@@ -10,8 +10,8 @@ if (flash != 0)
 draw_sprite_ext(
 	sprite_index,
 	image_index,
-	floor(x),
-	floor(y-z),
+	(x),
+	(y-z),
 	image_xscale,
 	image_yscale,
 	image_angle,

@@ -6,7 +6,7 @@ function ActivateLiftable(_id){
 		spriteIdle = sPlayerLiftedIdle;
 		spriteWalk = sPlayerLiftedWalk;
 		localFrame = 0;
-		global.playerSpeedWalk -= 0.25;
+		global.playerSpeedWalk -= 0.3;
 		
 		global.iLifted = _id;
 		with (global.iLifted)

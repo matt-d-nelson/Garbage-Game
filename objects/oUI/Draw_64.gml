@@ -1,7 +1,7 @@
 /// @description Draw UI
 
-draw_text(10,10,global.iCamera.y);
-draw_text(10,30,global.iCamera.x);
+draw_text(10,10,oDuke.x);
+draw_text(10,30,oDuke.y);
 draw_text(10,60,oDuke.path_position);
 
 

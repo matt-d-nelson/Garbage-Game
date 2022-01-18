@@ -2,7 +2,7 @@
 
 
 //Update target position
-if (path_position >= 0.99)
+if (path_position >= 1)
 {
 	count = 0;
 	if (global.dLifted == noone)
@@ -80,7 +80,7 @@ path_delete(path);
 path = path_add();
 
 //Follow path
-mp_grid_path(oPathwaySetup.grid, path, x, y, targetX, targetY, 0);
+mp_grid_path(oPathwaySetup.grid, path, x, y, targetX, targetY, false);
 path_start(path, speedWalk, path_action_stop, false);
 
 

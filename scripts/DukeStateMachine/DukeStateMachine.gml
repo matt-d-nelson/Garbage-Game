@@ -1,13 +1,13 @@
 function DukeStateFollow(){
 	if (!collision_circle(x,y,50,oPlayer,false,true))
 	{
-		targetX = (oPlayer.x + random_range(-30,30));
-		targetY = (oPlayer.y + random_range(-30,30));
+		targetX = (oPlayer.x + irandom_range(-30,30));
+		targetY = (oPlayer.y + irandom_range(-30,30));
 	}
 	else
 	{
-		targetX = choose((x + random_range(15,25)),(x + random_range(-25,-15)),x,x,x,x,x,x);
-		targetY = choose((y + random_range(15,25)),(y + random_range(-25,-15)),y,y,y,y,y,y);
+		targetX = choose((x + irandom_range(15,25)),(x + irandom_range(-25,-15)),x,x,x,x,x,x);
+		targetY = choose((y + irandom_range(15,25)),(y + irandom_range(-25,-15)),y,y,y,y,y,y);
 	}
 	
 	//Avoid targeting gaps

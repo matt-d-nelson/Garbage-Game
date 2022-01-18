@@ -3,6 +3,11 @@ function PlayerCollision()
 	var _collision = false;
 	var _entityList = ds_list_create();
 	
+	//Remove Horizontal Coordinate Fractions
+	hSpeed += hSFrac; //Add previous fraction
+	hSFrac = hSpeed - (floor(abs(hSpeed)) * sign(hSpeed)); //Store new fraction
+	hSpeed -= hSFrac; // Remove new fraction
+	
 	//Horizontal Walls
 	if (place_meeting(x+hSpeed,y,oParWallCol))
 	{
@@ -45,10 +50,15 @@ function PlayerCollision()
 		_collision = true;
 	}
 	
-	//Horizontal Move Commit
+	//Horizontal Move Commit  
 	x += hSpeed;
 	
-		//Vertical Walls
+	//Remove Vertical Coordinate Fractions
+	vSpeed += vSFrac; //Add previous fraction
+	vSFrac = vSpeed - (floor(abs(vSpeed)) * sign(vSpeed)); //Store new fraction
+	vSpeed -= vSFrac; // Remove new fraction
+	
+	//Vertical Walls
 	if (place_meeting(x,y+vSpeed,oParWallCol))
 	{
 		while(!place_meeting(x,y+sign(vSpeed),oParWallCol))
@@ -91,6 +101,7 @@ function PlayerCollision()
 	}
 	
 	//Vertical Move Commit
+	
 	y += vSpeed;
 	
 	ds_list_destroy(_entityList);
@@ -126,7 +137,7 @@ function PlayerMovement(){
 
 	//Update Sprite Index
 	var _oldSprite = sprite_index;
-	if (inputMagnitude !=0)
+	if (inputMagnitude != 0)
 	{
 		direction = inputDirection;
 		sprite_index = spriteWalk;

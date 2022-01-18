@@ -14,7 +14,7 @@ global.playerItemUnlocked = array_create(ITEM.TYPE_COUNT, false);
 global.playerItemUnlocked[ITEM.NONE] = true;
 
 //Player Values
-global.playerSpeedWalk = 1.495;
+global.playerSpeedWalk = 1.4;
 global.playerGarbage = 0;
 global.playerGather = 10;
 global.playerAxe = 10;

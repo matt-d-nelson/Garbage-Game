@@ -21,5 +21,5 @@ function PlayerThrow(){
 	spriteIdle = sPlayerLiftIdle;
 	spriteWalk = sPlayerLiftWalk;
 	localFrame = 0;
-	global.playerSpeedWalk += 0.25;
+	global.playerSpeedWalk += 0.3;
 }

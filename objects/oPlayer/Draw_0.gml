@@ -4,8 +4,8 @@ if (state == PlayerWhip) && (CARDINAL_DIR == 1) DrawWhip(6,-6,90,0);
 draw_sprite_ext(
 	sprite_index,
 	image_index,
-	floor(x),
-	floor(y-z),
+	x,
+	(y-z),
 	image_xscale,
 	image_yscale,
 	image_angle,
