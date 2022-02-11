@@ -30,6 +30,7 @@
   "overriddenProperties": [
     {"propertyId":{"name":"entityGarbage","path":"objects/oParGarbage/oParGarbage.yy",},"objectId":{"name":"oParGarbage","path":"objects/oParGarbage/oParGarbage.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"entityCollision","path":"objects/oParEntity/oParEntity.yy",},"objectId":{"name":"oParEntity","path":"objects/oParEntity/oParEntity.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"entityThrowDistance","path":"objects/oParEntity/oParEntity.yy",},"objectId":{"name":"oParEntity","path":"objects/oParEntity/oParEntity.yy",},"value":"52","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Garbage",

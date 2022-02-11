@@ -3,10 +3,10 @@ function PlayerCollision()
 	var _collision = false;
 	var _entityList = ds_list_create();
 	
-	//Remove Horizontal Coordinate Fractions
-	hSpeed += hSFrac; //Add previous fraction
-	hSFrac = hSpeed - (floor(abs(hSpeed)) * sign(hSpeed)); //Store new fraction
-	hSpeed -= hSFrac; // Remove new fraction
+	//Remove Horizontal Coordinate Fractions / commented out after resolution change
+	//hSpeed += hSFrac; //Add previous fraction
+	//hSFrac = hSpeed - (floor(abs(hSpeed)) * sign(hSpeed)); //Store new fraction
+	//hSpeed -= hSFrac; // Remove new fraction
 	
 	//Horizontal Walls
 	if (place_meeting(x+hSpeed,y,oParWallCol))
@@ -54,9 +54,9 @@ function PlayerCollision()
 	x += hSpeed;
 	
 	//Remove Vertical Coordinate Fractions
-	vSpeed += vSFrac; //Add previous fraction
-	vSFrac = vSpeed - (floor(abs(vSpeed)) * sign(vSpeed)); //Store new fraction
-	vSpeed -= vSFrac; // Remove new fraction
+	//vSpeed += vSFrac; //Add previous fraction
+	//vSFrac = vSpeed - (floor(abs(vSpeed)) * sign(vSpeed)); //Store new fraction
+	//vSpeed -= vSFrac; // Remove new fraction
 	
 	//Vertical Walls
 	if (place_meeting(x,y+vSpeed,oParWallCol))
@@ -110,7 +110,7 @@ function PlayerCollision()
 }
 
 function PlayerMovement(){
-	//Fix for lift/throw issues
+	//Fix for lift/throw issues by setting mask to lifted object
 	if (global.iLifted != noone)
 	{
 		if (!place_meeting(x,y,oParWallCol)) && (!place_meeting(x,y,oGapCol))

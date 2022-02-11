@@ -2,7 +2,7 @@
 
 
 //Update target position
-if (path_position >= 1)
+if (path_position >= 0.99)
 {
 	count = 0;
 	if (global.dLifted == noone)

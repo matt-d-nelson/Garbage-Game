@@ -15,7 +15,7 @@ function ActivateLiftable(_id){
 			persistent = true;
 		}
 	}
-	if (global.dLifted == noone) && (id = oDuke.id)
+	if instance_exists(oDuke) && (global.dLifted == noone) && (id = oDuke.id)
 	{
 		DukeActOutAnimation(sDukeLifting);
 		

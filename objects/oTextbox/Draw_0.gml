@@ -1,7 +1,7 @@
 //Draw the textbox
 
 //Back of the textbox
-draw_sprite_ext(textboxSpr[page], textboxImage, textboxX, textboxY, textboxW/32, textboxH/32, 0, c_white, 1); //32 is sprite width of Text bubble
+draw_sprite_ext(textboxSpr[page], textboxImage, textboxX, textboxY, 1, 1, 0, c_white, 1); 
 
 //Options
 if (drawChar == textLength[page]) && (page == pageNumber - 1)

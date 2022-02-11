@@ -4,7 +4,7 @@ if (!global.gamePaused)
 keyProgress = keyboard_check_pressed(vk_shift);
 
 //Gradually update textbox position
-xTo = speaker.x - textboxW/2;
+xTo = speaker.x-textboxW/2;
 yTo = (speaker.y-speaker.z) - (speaker.sprite_height+textboxH);
 
 //Keep textbox inside camera

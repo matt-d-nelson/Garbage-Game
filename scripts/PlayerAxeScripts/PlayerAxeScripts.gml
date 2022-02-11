@@ -75,11 +75,11 @@ function SplitIntoPieces(_leftObject, _rightObject, _upObject, _downObject){
 			thrown = true;
 			z = 5;
 			throwPeakHeight = z + 5;
-			throwDistance = random(entityThrowDistance-1);
+			throwDistance = random(entityThrowDistance);
 			throwDistanceTravelled = 0;
 			throwStartPercent = (5/throwPeakHeight) * 0.5;
 			throwPercent = throwStartPercent;
-			xstart = x - sprite_get_width(_leftObject/2);
+			xstart = x - sprite_get_width(_leftObject)/2;
 			ystart = y;
 			flashShader = shRedFlash;
 			flash = 1;
@@ -93,11 +93,11 @@ function SplitIntoPieces(_leftObject, _rightObject, _upObject, _downObject){
 			thrown = true;
 			z = 5;
 			throwPeakHeight = z + 5;
-			throwDistance = random(entityThrowDistance-1);
+			throwDistance = random(entityThrowDistance);
 			throwDistanceTravelled = 0;
 			throwStartPercent = (5/throwPeakHeight) * 0.5;
 			throwPercent = throwStartPercent;
-			xstart = x + sprite_get_width(_rightObject/2);
+			xstart = x + sprite_get_width(_rightObject)/2;
 			ystart = y;
 			flashShader = shRedFlash;
 			flash = 1;
@@ -111,12 +111,12 @@ function SplitIntoPieces(_leftObject, _rightObject, _upObject, _downObject){
 			thrown = true;
 			z = 5;
 			throwPeakHeight = z + 5;
-			throwDistance = random(entityThrowDistance-1);
+			throwDistance = random(entityThrowDistance);
 			throwDistanceTravelled = 0;
 			throwStartPercent = (5/throwPeakHeight) * 0.5;
 			throwPercent = throwStartPercent;
 			xstart = x;
-			ystart = y - sprite_get_height(_upObject/2);
+			ystart = y - sprite_get_height(_upObject)/2;
 			flashShader = shRedFlash;
 			flash = 1;
 		}
@@ -129,12 +129,12 @@ function SplitIntoPieces(_leftObject, _rightObject, _upObject, _downObject){
 			thrown = true;
 			z = 5;
 			throwPeakHeight = z + 5;
-			throwDistance = random(entityThrowDistance-1);
+			throwDistance = random(entityThrowDistance);
 			throwDistanceTravelled = 0;
 			throwStartPercent = (5/throwPeakHeight) * 0.5;
 			throwPercent = throwStartPercent;
 			xstart = x;
-			ystart = y + sprite_get_height(_downObject/2);
+			ystart = y + sprite_get_height(_downObject);
 			flashShader = shRedFlash;
 			flash = 1;
 		}

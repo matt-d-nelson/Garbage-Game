@@ -1,10 +1,12 @@
 #macro FRAME_RATE 60
 #macro TILE_SIZE 16
 #macro CARDINAL_DIR round(direction/90)
-#macro ROOM_START Room1
+#macro ROOM_START Motel
 
-#macro RESOLUTION_W 320
-#macro RESOLUTION_H 180
+#macro RESOLUTION_W 320*3
+#macro RESOLUTION_H 180*3
+#macro GUI_RESOLUTION_W 320
+#macro GUI_RESOLUTION_H 180
 
 enum ITEM
 {
