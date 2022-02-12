@@ -93,6 +93,6 @@ if (!global.gamePaused)
 }
 flash = max(flash-0.04,0);
 
-depth = -bbox_bottom;
-if (global.dLifted = id) depth = oDuke.depth-1;
-if (global.iLifted = id) depth = oPlayer.depth-1;
+if (global.dLifted = id) && (oDuke.sprite_index != sDukeLifting) {depth = oDuke.depth-1;}
+else if (global.iLifted = id) && (oPlayer.sprite_index != sPlayerLifting) {depth = oPlayer.depth-1;}
+else depth = -bbox_bottom;
