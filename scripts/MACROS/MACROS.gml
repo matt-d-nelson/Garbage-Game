@@ -3,8 +3,8 @@
 #macro CARDINAL_DIR round(direction/90)
 #macro ROOM_START Motel
 
-#macro RESOLUTION_W 320*3
-#macro RESOLUTION_H 180*3
+#macro RESOLUTION_W 320*4
+#macro RESOLUTION_H 180*4
 #macro GUI_RESOLUTION_W 320
 #macro GUI_RESOLUTION_H 180
 
