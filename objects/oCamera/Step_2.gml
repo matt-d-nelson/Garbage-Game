@@ -3,8 +3,8 @@
 //Update destination
 if (instance_exists(follow))
 {
-	xTo = floor(follow.x);	
-	yTo = floor(follow.y) - (viewHeightHalf/2);
+	xTo = follow.x;	
+	yTo = follow.y - (viewHeightHalf/2);
 }
 
 //Update Object Position
@@ -19,6 +19,16 @@ y = clamp(y, viewHeightHalf, room_height-viewHeightHalf);
 x += random_range(-shakeRemain,shakeRemain);
 y += random_range(-shakeRemain,shakeRemain);
 
-shakeRemain = max(0, shakeRemain - ((1/shakeLength) * shakeMagnitude));
+//Zoom out when outside
+if (zoomOut)
+{
+	camW = min(camW+2.66,640);
+	camH = min(camH+1.5,360);
+	viewWidthHalf = camW * 0.5;
+	viewHeightHalf = camH * 0.5;
+	camera_set_view_size(cam,camW,camH);	
+}
 
+//Screenshake and camera commit
+shakeRemain = max(0, shakeRemain - ((1/shakeLength) * shakeMagnitude));
 camera_set_view_pos(cam,x - viewWidthHalf, y - viewHeightHalf);

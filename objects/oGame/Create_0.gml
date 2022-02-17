@@ -4,6 +4,7 @@ randomize();
 global.gamePaused = false;
 
 global.iCamera = instance_create_layer(0,0,layer,oCamera);
+global.outside = true;
 global.iUI = instance_create_layer(0,0,layer,oUI);
 global.fntMain = fTextMain;
 
