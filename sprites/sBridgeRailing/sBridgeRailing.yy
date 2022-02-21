@@ -1,5 +1,5 @@
 {
-  "bboxMode": 2,
+  "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 18,
-  "bbox_right": 142,
-  "bbox_top": 7,
-  "bbox_bottom": 20,
+  "bbox_left": 19,
+  "bbox_right": 140,
+  "bbox_top": 50,
+  "bbox_bottom": 74,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"132f9d33-77ee-44bc-b433-b8d7f4e60003","path":"sprites/sBridge/sBridge.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"132f9d33-77ee-44bc-b433-b8d7f4e60003","path":"sprites/sBridge/sBridge.yy",},"LayerId":{"name":"77852cfe-051e-477a-8c71-99553f3487b2","path":"sprites/sBridge/sBridge.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sBridge","path":"sprites/sBridge/sBridge.yy",},"resourceVersion":"1.0","name":"132f9d33-77ee-44bc-b433-b8d7f4e60003","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d3f38d12-42e4-4727-913c-6da021baeeeb","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d3f38d12-42e4-4727-913c-6da021baeeeb","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},"LayerId":{"name":"f1c3fce5-ebc3-4228-a5fa-926a4c59528d","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sBridgeRailing","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},"resourceVersion":"1.0","name":"d3f38d12-42e4-4727-913c-6da021baeeeb","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sBridge","path":"sprites/sBridge/sBridge.yy",},
+    "spriteId": {"name":"sBridgeRailing","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"283a6958-4f47-4861-be49-94b69576fb80","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"132f9d33-77ee-44bc-b433-b8d7f4e60003","path":"sprites/sBridge/sBridge.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1ca4ca52-4e83-46d8-97d5-dfd7e4042037","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d3f38d12-42e4-4727-913c-6da021baeeeb","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sBridge","path":"sprites/sBridge/sBridge.yy",},
+    "parent": {"name":"sBridgeRailing","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},
     "resourceVersion": "1.3",
-    "name": "sBridge",
+    "name": "sBridgeRailing",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"77852cfe-051e-477a-8c71-99553f3487b2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f1c3fce5-ebc3-4228-a5fa-926a4c59528d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Locations/Motel.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sBridge",
+  "name": "sBridgeRailing",
   "tags": [],
   "resourceType": "GMSprite",
 }
