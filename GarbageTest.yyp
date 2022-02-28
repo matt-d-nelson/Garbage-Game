@@ -23,6 +23,7 @@
     {"id":{"name":"sItems4","path":"sprites/sItems4/sItems4.yy",},"order":3,},
     {"id":{"name":"oFenceWood1","path":"objects/oFenceWood1/oFenceWood1.yy",},"order":0,},
     {"id":{"name":"sCustomerWalk","path":"sprites/sCustomerWalk/sCustomerWalk.yy",},"order":1,},
+    {"id":{"name":"sWaterCorner","path":"sprites/sWaterCorner/sWaterCorner.yy",},"order":4,},
     {"id":{"name":"GameText","path":"scripts/GameText/GameText.yy",},"order":0,},
     {"id":{"name":"sLyraYoungWalk","path":"sprites/sLyraYoungWalk/sLyraYoungWalk.yy",},"order":1,},
     {"id":{"name":"DukeStateMachine","path":"scripts/DukeStateMachine/DukeStateMachine.yy",},"order":0,},
