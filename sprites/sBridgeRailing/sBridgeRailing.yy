@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBridgeRailing","path":"sprites/sBridgeRailing/sBridgeRailing.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBridgeRailing",
     "tags": [],
     "resourceType": "GMSequence",

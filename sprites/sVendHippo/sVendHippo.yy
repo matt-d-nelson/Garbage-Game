@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sVendHippo","path":"sprites/sVendHippo/sVendHippo.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sVendHippo",
     "tags": [],
     "resourceType": "GMSequence",

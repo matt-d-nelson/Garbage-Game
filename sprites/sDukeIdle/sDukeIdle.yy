@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDukeIdle","path":"sprites/sDukeIdle/sDukeIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDukeIdle",
     "tags": [],
     "resourceType": "GMSequence",

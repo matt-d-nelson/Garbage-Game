@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerAxeWalk","path":"sprites/sPlayerAxeWalk/sPlayerAxeWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerAxeWalk",
     "tags": [],
     "resourceType": "GMSequence",

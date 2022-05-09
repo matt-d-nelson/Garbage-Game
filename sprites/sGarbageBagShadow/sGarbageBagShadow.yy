@@ -60,7 +60,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sGarbageBagShadow","path":"sprites/sGarbageBagShadow/sGarbageBagShadow.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sGarbageBagShadow",
     "tags": [],
     "resourceType": "GMSequence",

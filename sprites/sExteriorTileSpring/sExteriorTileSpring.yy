@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sExteriorTileSpring","path":"sprites/sExteriorTileSpring/sExteriorTileSpring.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sExteriorTileSpring",
     "tags": [],
     "resourceType": "GMSequence",

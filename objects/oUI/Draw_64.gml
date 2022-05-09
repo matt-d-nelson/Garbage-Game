@@ -1,7 +1,6 @@
 /// @description Draw UI
 
-draw_text(10,10,oCamera.zoomOut);
-draw_text(10,30,oCamera.keyZoom);
+
 
 //Draw Items UI based on what is unlocked
 if (!global.playerItemUnlocked[ITEM.BAG])

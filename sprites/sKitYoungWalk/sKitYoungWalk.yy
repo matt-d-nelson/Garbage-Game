@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sKitYoungWalk","path":"sprites/sKitYoungWalk/sKitYoungWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sKitYoungWalk",
     "tags": [],
     "resourceType": "GMSequence",

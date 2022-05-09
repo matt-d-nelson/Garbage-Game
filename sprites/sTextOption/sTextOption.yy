@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTextOption","path":"sprites/sTextOption/sTextOption.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTextOption",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sKitYoungIdle","path":"sprites/sKitYoungIdle/sKitYoungIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sKitYoungIdle",
     "tags": [],
     "resourceType": "GMSequence",

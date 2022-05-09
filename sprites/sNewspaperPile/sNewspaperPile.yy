@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sNewspaperPile","path":"sprites/sNewspaperPile/sNewspaperPile.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sNewspaperPile",
     "tags": [],
     "resourceType": "GMSequence",

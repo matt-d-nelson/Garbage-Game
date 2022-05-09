@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sKingsmithWalk","path":"sprites/sKingsmithWalk/sKingsmithWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sKingsmithWalk",
     "tags": [],
     "resourceType": "GMSequence",

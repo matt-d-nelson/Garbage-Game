@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDukeJumpDown","path":"sprites/sDukeJumpDown/sDukeJumpDown.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDukeJumpDown",
     "tags": [],
     "resourceType": "GMSequence",

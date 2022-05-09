@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTimWalk","path":"sprites/sTimWalk/sTimWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTimWalk",
     "tags": [],
     "resourceType": "GMSequence",

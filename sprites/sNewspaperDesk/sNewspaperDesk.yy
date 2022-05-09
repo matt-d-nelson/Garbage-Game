@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sNewspaperDesk","path":"sprites/sNewspaperDesk/sNewspaperDesk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sNewspaperDesk",
     "tags": [],
     "resourceType": "GMSequence",

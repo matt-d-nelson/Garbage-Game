@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sAllenWalk","path":"sprites/sAllenWalk/sAllenWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sAllenWalk",
     "tags": [],
     "resourceType": "GMSequence",

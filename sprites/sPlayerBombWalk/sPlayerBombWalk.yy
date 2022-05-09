@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerBombWalk","path":"sprites/sPlayerBombWalk/sPlayerBombWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerBombWalk",
     "tags": [],
     "resourceType": "GMSequence",

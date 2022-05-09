@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBenchWoodUp","path":"sprites/sBenchWoodUp/sBenchWoodUp.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBenchWoodUp",
     "tags": [],
     "resourceType": "GMSequence",

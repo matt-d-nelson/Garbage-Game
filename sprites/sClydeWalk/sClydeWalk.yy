@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sClydeWalk","path":"sprites/sClydeWalk/sClydeWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sClydeWalk",
     "tags": [],
     "resourceType": "GMSequence",

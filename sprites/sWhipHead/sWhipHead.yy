@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWhipHead","path":"sprites/sWhipHead/sWhipHead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWhipHead",
     "tags": [],
     "resourceType": "GMSequence",

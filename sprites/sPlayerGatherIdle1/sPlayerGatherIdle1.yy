@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerGatherIdle1","path":"sprites/sPlayerGatherIdle1/sPlayerGatherIdle1.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerGatherIdle1",
     "tags": [],
     "resourceType": "GMSequence",

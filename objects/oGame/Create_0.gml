@@ -33,6 +33,6 @@ global.playerItemUnlocked[ITEM.AXE] = true;
 global.playerItemUnlocked[ITEM.WHIP] = true;
 global.playerItemUnlocked[ITEM.BOMB] = true;
 
-surface_resize(application_surface, RESOLUTION_W, RESOLUTION_H);
+surface_resize(application_surface, RESOLUTION_W, RESOLUTION_H); //May not need this
 display_set_gui_size(GUI_RESOLUTION_W,GUI_RESOLUTION_H);
 room_goto(ROOM_START)

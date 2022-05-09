@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMotelBKG","path":"sprites/sMotelBKG/sMotelBKG.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMotelBKG",
     "tags": [],
     "resourceType": "GMSequence",

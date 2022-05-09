@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDukeJumping","path":"sprites/sDukeJumping/sDukeJumping.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDukeJumping",
     "tags": [],
     "resourceType": "GMSequence",

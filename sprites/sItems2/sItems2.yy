@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sItems2","path":"sprites/sItems2/sItems2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sItems2",
     "tags": [],
     "resourceType": "GMSequence",

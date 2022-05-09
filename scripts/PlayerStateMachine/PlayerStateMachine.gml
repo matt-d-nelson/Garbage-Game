@@ -3,10 +3,6 @@ function PlayerCollision()
 	var _collision = false;
 	var _entityList = ds_list_create();
 	
-	//Remove Horizontal Coordinate Fractions / commented out after resolution change
-	//hSpeed += hSFrac; //Add previous fraction
-	//hSFrac = hSpeed - (floor(abs(hSpeed)) * sign(hSpeed)); //Store new fraction
-	//hSpeed -= hSFrac; // Remove new fraction
 	
 	//Horizontal Walls
 	if (place_meeting(x+hSpeed,y,oParWallCol))
@@ -52,11 +48,6 @@ function PlayerCollision()
 	
 	//Horizontal Move Commit  
 	x += hSpeed;
-	
-	//Remove Vertical Coordinate Fractions
-	//vSpeed += vSFrac; //Add previous fraction
-	//vSFrac = vSpeed - (floor(abs(vSpeed)) * sign(vSpeed)); //Store new fraction
-	//vSpeed -= vSFrac; // Remove new fraction
 	
 	//Vertical Walls
 	if (place_meeting(x,y+vSpeed,oParWallCol))

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerWhipIdle","path":"sprites/sPlayerWhipIdle/sPlayerWhipIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerWhipIdle",
     "tags": [],
     "resourceType": "GMSequence",

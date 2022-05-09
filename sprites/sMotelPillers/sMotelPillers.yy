@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMotelPillers","path":"sprites/sMotelPillers/sMotelPillers.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMotelPillers",
     "tags": [],
     "resourceType": "GMSequence",

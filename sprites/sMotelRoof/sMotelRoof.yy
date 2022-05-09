@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMotelRoof","path":"sprites/sMotelRoof/sMotelRoof.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMotelRoof",
     "tags": [],
     "resourceType": "GMSequence",

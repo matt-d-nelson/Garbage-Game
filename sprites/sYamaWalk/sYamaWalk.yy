@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sYamaWalk","path":"sprites/sYamaWalk/sYamaWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sYamaWalk",
     "tags": [],
     "resourceType": "GMSequence",

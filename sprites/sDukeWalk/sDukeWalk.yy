@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDukeWalk","path":"sprites/sDukeWalk/sDukeWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDukeWalk",
     "tags": [],
     "resourceType": "GMSequence",

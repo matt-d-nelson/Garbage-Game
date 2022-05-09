@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sGapCol","path":"sprites/sGapCol/sGapCol.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sGapCol",
     "tags": [],
     "resourceType": "GMSequence",

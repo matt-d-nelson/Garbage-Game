@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBarbIdle","path":"sprites/sBarbIdle/sBarbIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBarbIdle",
     "tags": [],
     "resourceType": "GMSequence",

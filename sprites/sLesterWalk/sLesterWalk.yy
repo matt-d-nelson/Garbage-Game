@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sLesterWalk","path":"sprites/sLesterWalk/sLesterWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sLesterWalk",
     "tags": [],
     "resourceType": "GMSequence",

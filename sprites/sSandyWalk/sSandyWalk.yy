@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sSandyWalk","path":"sprites/sSandyWalk/sSandyWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sSandyWalk",
     "tags": [],
     "resourceType": "GMSequence",

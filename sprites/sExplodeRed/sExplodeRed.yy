@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sExplodeRed","path":"sprites/sExplodeRed/sExplodeRed.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sExplodeRed",
     "tags": [],
     "resourceType": "GMSequence",

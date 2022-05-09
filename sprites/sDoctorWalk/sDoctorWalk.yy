@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDoctorWalk","path":"sprites/sDoctorWalk/sDoctorWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDoctorWalk",
     "tags": [],
     "resourceType": "GMSequence",

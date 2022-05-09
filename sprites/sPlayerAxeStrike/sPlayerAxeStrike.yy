@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerAxeStrike","path":"sprites/sPlayerAxeStrike/sPlayerAxeStrike.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerAxeStrike",
     "tags": [],
     "resourceType": "GMSequence",

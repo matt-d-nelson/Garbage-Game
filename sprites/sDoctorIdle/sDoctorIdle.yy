@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDoctorIdle","path":"sprites/sDoctorIdle/sDoctorIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDoctorIdle",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sAllenIdle","path":"sprites/sAllenIdle/sAllenIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sAllenIdle",
     "tags": [],
     "resourceType": "GMSequence",

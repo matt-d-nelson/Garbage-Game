@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sEddieCatIdle","path":"sprites/sEddieCatIdle/sEddieCatIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sEddieCatIdle",
     "tags": [],
     "resourceType": "GMSequence",

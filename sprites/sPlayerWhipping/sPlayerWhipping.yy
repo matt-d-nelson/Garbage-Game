@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerWhipping","path":"sprites/sPlayerWhipping/sPlayerWhipping.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerWhipping",
     "tags": [],
     "resourceType": "GMSequence",

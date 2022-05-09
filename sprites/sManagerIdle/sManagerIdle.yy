@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sManagerIdle","path":"sprites/sManagerIdle/sManagerIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sManagerIdle",
     "tags": [],
     "resourceType": "GMSequence",

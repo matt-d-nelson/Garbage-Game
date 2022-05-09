@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerLifting","path":"sprites/sPlayerLifting/sPlayerLifting.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerLifting",
     "tags": [],
     "resourceType": "GMSequence",

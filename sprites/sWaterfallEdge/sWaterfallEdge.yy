@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWaterfallEdge","path":"sprites/sWaterfallEdge/sWaterfallEdge.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWaterfallEdge",
     "tags": [],
     "resourceType": "GMSequence",

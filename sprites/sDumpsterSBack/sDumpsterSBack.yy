@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDumpsterSBack","path":"sprites/sDumpsterSBack/sDumpsterSBack.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDumpsterSBack",
     "tags": [],
     "resourceType": "GMSequence",

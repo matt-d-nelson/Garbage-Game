@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDukeYoung","path":"sprites/sDukeYoung/sDukeYoung.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDukeYoung",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sIanIdle","path":"sprites/sIanIdle/sIanIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sIanIdle",
     "tags": [],
     "resourceType": "GMSequence",

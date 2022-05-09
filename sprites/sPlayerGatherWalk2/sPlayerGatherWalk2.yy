@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerGatherWalk2","path":"sprites/sPlayerGatherWalk2/sPlayerGatherWalk2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerGatherWalk2",
     "tags": [],
     "resourceType": "GMSequence",

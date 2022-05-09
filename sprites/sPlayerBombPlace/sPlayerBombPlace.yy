@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerBombPlace","path":"sprites/sPlayerBombPlace/sPlayerBombPlace.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerBombPlace",
     "tags": [],
     "resourceType": "GMSequence",

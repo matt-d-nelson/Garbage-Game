@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sExteriorTileSpringUpper","path":"sprites/sExteriorTileSpringUpper/sExteriorTileSpringUpper.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sExteriorTileSpringUpper",
     "tags": [],
     "resourceType": "GMSequence",

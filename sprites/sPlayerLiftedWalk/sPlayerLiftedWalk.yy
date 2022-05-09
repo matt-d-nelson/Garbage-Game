@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerLiftedWalk","path":"sprites/sPlayerLiftedWalk/sPlayerLiftedWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerLiftedWalk",
     "tags": [],
     "resourceType": "GMSequence",

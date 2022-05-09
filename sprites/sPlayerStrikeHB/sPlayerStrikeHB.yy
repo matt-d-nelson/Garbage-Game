@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerStrikeHB","path":"sprites/sPlayerStrikeHB/sPlayerStrikeHB.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerStrikeHB",
     "tags": [],
     "resourceType": "GMSequence",

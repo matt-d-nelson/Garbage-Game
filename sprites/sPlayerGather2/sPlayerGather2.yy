@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerGather2","path":"sprites/sPlayerGather2/sPlayerGather2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerGather2",
     "tags": [],
     "resourceType": "GMSequence",

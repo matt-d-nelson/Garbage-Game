@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerThrowing","path":"sprites/sPlayerThrowing/sPlayerThrowing.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerThrowing",
     "tags": [],
     "resourceType": "GMSequence",

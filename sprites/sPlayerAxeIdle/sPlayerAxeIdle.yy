@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerAxeIdle","path":"sprites/sPlayerAxeIdle/sPlayerAxeIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerAxeIdle",
     "tags": [],
     "resourceType": "GMSequence",

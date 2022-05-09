@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWallColS","path":"sprites/sWallColS/sWallColS.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWallColS",
     "tags": [],
     "resourceType": "GMSequence",

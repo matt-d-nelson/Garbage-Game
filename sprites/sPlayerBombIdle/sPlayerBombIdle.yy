@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerBombIdle","path":"sprites/sPlayerBombIdle/sPlayerBombIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerBombIdle",
     "tags": [],
     "resourceType": "GMSequence",

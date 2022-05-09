@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sKingsmithIdle","path":"sprites/sKingsmithIdle/sKingsmithIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sKingsmithIdle",
     "tags": [],
     "resourceType": "GMSequence",

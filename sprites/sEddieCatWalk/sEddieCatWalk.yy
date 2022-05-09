@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sEddieCatWalk","path":"sprites/sEddieCatWalk/sEddieCatWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sEddieCatWalk",
     "tags": [],
     "resourceType": "GMSequence",

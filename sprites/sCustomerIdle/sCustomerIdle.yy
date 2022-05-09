@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sCustomerIdle","path":"sprites/sCustomerIdle/sCustomerIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sCustomerIdle",
     "tags": [],
     "resourceType": "GMSequence",

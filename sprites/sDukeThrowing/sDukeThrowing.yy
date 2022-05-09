@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDukeThrowing","path":"sprites/sDukeThrowing/sDukeThrowing.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDukeThrowing",
     "tags": [],
     "resourceType": "GMSequence",

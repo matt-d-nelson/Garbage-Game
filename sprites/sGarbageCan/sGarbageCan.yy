@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sGarbageCan","path":"sprites/sGarbageCan/sGarbageCan.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sGarbageCan",
     "tags": [],
     "resourceType": "GMSequence",

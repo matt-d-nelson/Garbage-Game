@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMikeWalk","path":"sprites/sMikeWalk/sMikeWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMikeWalk",
     "tags": [],
     "resourceType": "GMSequence",

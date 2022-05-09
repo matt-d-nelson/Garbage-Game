@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sMotelRailing","path":"sprites/sMotelRailing/sMotelRailing.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sMotelRailing",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sTextSpeaker","path":"sprites/sTextSpeaker/sTextSpeaker.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sTextSpeaker",
     "tags": [],
     "resourceType": "GMSequence",

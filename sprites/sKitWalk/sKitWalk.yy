@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sKitWalk","path":"sprites/sKitWalk/sKitWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sKitWalk",
     "tags": [],
     "resourceType": "GMSequence",

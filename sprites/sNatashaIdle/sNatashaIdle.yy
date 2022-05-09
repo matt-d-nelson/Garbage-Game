@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sNatashaIdle","path":"sprites/sNatashaIdle/sNatashaIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sNatashaIdle",
     "tags": [],
     "resourceType": "GMSequence",

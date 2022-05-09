@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWaterEdgeSlant","path":"sprites/sWaterEdgeSlant/sWaterEdgeSlant.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWaterEdgeSlant",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBridge","path":"sprites/sBridge/sBridge.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBridge",
     "tags": [],
     "resourceType": "GMSequence",

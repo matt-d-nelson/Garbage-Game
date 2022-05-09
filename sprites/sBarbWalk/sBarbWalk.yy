@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBarbWalk","path":"sprites/sBarbWalk/sBarbWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sBarbWalk",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWaterCorner","path":"sprites/sWaterCorner/sWaterCorner.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWaterCorner",
     "tags": [],
     "resourceType": "GMSequence",

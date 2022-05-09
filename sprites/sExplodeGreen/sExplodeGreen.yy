@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sExplodeGreen","path":"sprites/sExplodeGreen/sExplodeGreen.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sExplodeGreen",
     "tags": [],
     "resourceType": "GMSequence",

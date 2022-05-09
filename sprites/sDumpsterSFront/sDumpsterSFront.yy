@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDumpsterSFront","path":"sprites/sDumpsterSFront/sDumpsterSFront.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDumpsterSFront",
     "tags": [],
     "resourceType": "GMSequence",

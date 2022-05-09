@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDukeLifting","path":"sprites/sDukeLifting/sDukeLifting.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDukeLifting",
     "tags": [],
     "resourceType": "GMSequence",

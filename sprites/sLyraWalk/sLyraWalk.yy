@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sLyraWalk","path":"sprites/sLyraWalk/sLyraWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sLyraWalk",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerLiftIdle","path":"sprites/sPlayerLiftIdle/sPlayerLiftIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerLiftIdle",
     "tags": [],
     "resourceType": "GMSequence",

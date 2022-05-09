@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sPlayerWhipWalk","path":"sprites/sPlayerWhipWalk/sPlayerWhipWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sPlayerWhipWalk",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sClydeIdle","path":"sprites/sClydeIdle/sClydeIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sClydeIdle",
     "tags": [],
     "resourceType": "GMSequence",

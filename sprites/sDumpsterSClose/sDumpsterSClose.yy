@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDumpsterSClose","path":"sprites/sDumpsterSClose/sDumpsterSClose.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDumpsterSClose",
     "tags": [],
     "resourceType": "GMSequence",

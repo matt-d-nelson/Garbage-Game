@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sWaterfallCenter","path":"sprites/sWaterfallCenter/sWaterfallCenter.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sWaterfallCenter",
     "tags": [],
     "resourceType": "GMSequence",

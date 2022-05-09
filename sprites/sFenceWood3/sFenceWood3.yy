@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sFenceWood3","path":"sprites/sFenceWood3/sFenceWood3.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sFenceWood3",
     "tags": [],
     "resourceType": "GMSequence",

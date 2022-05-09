@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sIanWalk","path":"sprites/sIanWalk/sIanWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sIanWalk",
     "tags": [],
     "resourceType": "GMSequence",

@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sNatashaWalk","path":"sprites/sNatashaWalk/sNatashaWalk.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sNatashaWalk",
     "tags": [],
     "resourceType": "GMSequence",

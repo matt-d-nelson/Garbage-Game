@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sDeskLeftShadow","path":"sprites/sDeskLeftShadow/sDeskLeftShadow.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sDeskLeftShadow",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sYamaIdle","path":"sprites/sYamaIdle/sYamaIdle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "sYamaIdle",
     "tags": [],
     "resourceType": "GMSequence",
